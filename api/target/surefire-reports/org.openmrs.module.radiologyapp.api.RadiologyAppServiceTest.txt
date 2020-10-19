@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: org.openmrs.module.radiologyapp.api.RadiologyAppServiceTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 78.901 sec - in org.openmrs.module.radiologyapp.api.RadiologyAppServiceTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 38.78 sec - in org.openmrs.module.radiologyapp.api.RadiologyAppServiceTest
