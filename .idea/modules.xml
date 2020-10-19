@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/radiologyapp.iml" filepath="$PROJECT_DIR$/radiologyapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api/radiologyapp-api.iml" filepath="$PROJECT_DIR$/api/radiologyapp-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/omod/radiologyapp-omod.iml" filepath="$PROJECT_DIR$/omod/radiologyapp-omod.iml" />
+    </modules>
+  </component>
+</project>

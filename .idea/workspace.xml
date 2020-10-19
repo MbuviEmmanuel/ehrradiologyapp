@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="37451c6d-11b2-42d1-9352-ee21a5eb3448" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/omod/src/main/java/org/openmrs/module/radiologyapp/page/controller/ReportExportPageController.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1irSTKcNE5RKUo21sOK6PKRCpC2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../billing" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.openmrs.module.radiologyapp.page.controller" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37451c6d-11b2-42d1-9352-ee21a5eb3448" name="Default Changelist" comment="" />
+      <created>1602664228059</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602664228059</updated>
+      <workItem from="1602664230735" duration="2885000" />
+      <workItem from="1602672487946" duration="6694000" />
+      <workItem from="1602689831322" duration="368000" />
+      <workItem from="1602740940102" duration="3865000" />
+      <workItem from="1603085289257" duration="4853000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="620" y="207" width="424" height="482" key="FileChooserDialogImpl" timestamp="1602745723055">
+      <screen x="65" y="24" width="1535" height="876" />
+    </state>
+    <state x="620" y="161" width="424" height="482" key="FileChooserDialogImpl/65.24.1535.654@65.24.1535.654" timestamp="1602672972152" />
+    <state x="620" y="207" width="424" height="482" key="FileChooserDialogImpl/65.24.1535.876@65.24.1535.876" timestamp="1602745723055" />
+    <state x="370" y="107" key="Maven.ArtifactSearchDialog" timestamp="1602667966402">
+      <screen x="65" y="24" width="1535" height="876" />
+    </state>
+    <state x="370" y="107" key="Maven.ArtifactSearchDialog/65.24.1535.876@65.24.1535.876" timestamp="1602667966402" />
+    <state x="320" y="26" key="SettingsEditor" timestamp="1603089668882">
+      <screen x="65" y="24" width="1535" height="876" />
+    </state>
+    <state x="320" y="26" key="SettingsEditor/65.24.1535.876@65.24.1535.876" timestamp="1603089668882" />
+    <state width="529" height="475" key="SwitcherDM" timestamp="1602676579134">
+      <screen x="65" y="24" width="1535" height="654" />
+    </state>
+    <state width="529" height="475" key="SwitcherDM/65.24.1535.654@65.24.1535.654" timestamp="1602676579134" />
+    <state x="523" y="24" width="618" height="654" key="find.popup" timestamp="1602674894995">
+      <screen x="65" y="24" width="1535" height="654" />
+    </state>
+    <state x="523" y="24" width="618" height="654" key="find.popup/65.24.1535.654@65.24.1535.654" timestamp="1602674894995" />
+    <state x="495" y="191" width="672" height="678" key="search.everywhere.popup" timestamp="1602746560479">
+      <screen x="65" y="24" width="1535" height="876" />
+    </state>
+    <state x="495" y="191" width="672" height="678" key="search.everywhere.popup/65.24.1535.876@65.24.1535.876" timestamp="1602746560479" />
+  </component>
+</project>
